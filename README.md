@@ -65,8 +65,6 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the hello world ed-tech
 platform: 
 
-![Architecture](images/architecture.png)
-
 ## Front End
 
 The front end of hello world has all the necessary pages that an ed-tech platform should
